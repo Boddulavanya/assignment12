@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-10\ConAppAssignment12\ConAppAssignment12\bin\Debug\ConAppAssignment12.exe.config
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-10\ConAppAssignment12\ConAppAssignment12\bin\Debug\ConAppAssignment12.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-10\ConAppAssignment12\ConAppAssignment12\bin\Debug\ConAppAssignment12.pdb
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-10\ConAppAssignment12\ConAppAssignment12\obj\Debug\ConAppAssignment12.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-10\ConAppAssignment12\ConAppAssignment12\obj\Debug\ConAppAssignment12.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-10\ConAppAssignment12\ConAppAssignment12\obj\Debug\ConAppAssignment12.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-10\ConAppAssignment12\ConAppAssignment12\obj\Debug\ConAppAssignment12.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-10\ConAppAssignment12\ConAppAssignment12\obj\Debug\ConAppAssignment12.pdb
